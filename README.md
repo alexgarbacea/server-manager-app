@@ -1,9 +1,10 @@
 # ServerManager App
 
-### [Front-end](https://github.com/alexgarbacea/server-manager-app/tree/front-end-Angular) 
-built using `Angular`
+## Front-end
+- ### [Angular](https://github.com/alexgarbacea/server-manager-app/tree/front-end-Angular) 
+- ### [React](https://github.com/alexgarbacea/server-manager-app/tree/front-end-react) 
 
 ##
 
-### [Back-end](https://github.com/alexgarbacea/server-manager-app/tree/back-end-SpringBoot) 
-built using `Spring Boot`
+## Back-end
+- ### [Spring Boot](https://github.com/alexgarbacea/server-manager-app/tree/back-end-SpringBoot) 
